@@ -1,0 +1,12 @@
+hello this is file written with js:and its pretty cool
+    basically it creates a new file incase it dont exists with the given path
+    ans incase it does exits then in that case it over writes the file .
+    heres the content of already existing files: this is in content outer file  and this is in subfolder hello this is file written with js:and its pretty cool
+    basically it creates a new file incase it dont exists with the given path
+    ans incase it does exits then in that case it over writes the file .
+    heres the content of already existing files: this is in content outer file  and this is in subfolder.
+    use { flag:'a' } for appending thohello this is file written with js:and its pretty cool
+    basically it creates a new file incase it dont exists with the given path
+    ans incase it does exits then in that case it over writes the file .
+    heres the content of already existing files: this is in content outer file  and this is in subfolder.
+    use { flag:'a' } for appending tho
